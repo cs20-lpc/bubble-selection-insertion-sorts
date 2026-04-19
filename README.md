@@ -1,4 +1,4 @@
-# Week 13 Wed Lab
+# Bubble/Selection/Insertion Sorts
 
 ## Directions
 
